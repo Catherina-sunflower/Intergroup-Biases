@@ -1,0 +1,17 @@
+﻿Variable,Variable Name,Measurement unit,Allowed values,Description
+Progress,How much progress have participants made,Numeric,0-100,How much participants made in survey / completion rate
+Duration ,duration,Numeric,0-500,How many seconds participants spend on survey
+Consent,consent,Numeric,"0=no, 1=yes",Did they consent?
+Gender,gender,Numeric,"1=Female, 2=Male, 3=non-binary",Participants' gender
+Gender description,gender_text,Text,,If they specified their gender
+Ethnicity,ethnicity,Numeric,"4=White English, Scottish, Welsh, Northern Irish), 5=White (other), 6=Black (African, Caribbean, other black background), 7=Asian (Indian, Pakistani, Bangladeshi), 8= Asian other background, 9=Mixed/multiple ethnic background, 10= Other (please specify)",Participants' ethnicity
+Ethnicity description,ethnicity_10_text,Text,,Their own specification
+Age,age,Numeric,18-99,Age in years
+Attention Recoded,attention_check_rec,Numeric,"0= false, 1=correct",Recorded attention check; 1=pilut; 0=all other
+Attention check,Attention_check,Text,,The correct answer was 'pilut'
+Preferred Tribe,tribe_preference,Numeric,"0=Purple Alien, 1= Brown Alien",Which tribe they preferred
+Definition 'Choleric',,Numeric,"1=bad-tempered, 2=angry, 3=jealous, 4=patient",How would they define the term 'choleric'?
+comments,choleric_definition,Text,,Possible comments 
+Condition,condition,Numeric,1=Participants see 3 positive (same) and 3 negative different) characteristics of Tribe A first; 2=Participants see 3 positive (different) and 3 negative (same) characteristics of Tribe A first; 3=Participants see 3 positive (same) and 3 negative (different) characteristics of Tribe B first; 4=Participants see 3 positive (different) and 3 negative (same) characteristics of Tribe B first,
+,,,,
+The following colums indicate which traits were presented ,,,,

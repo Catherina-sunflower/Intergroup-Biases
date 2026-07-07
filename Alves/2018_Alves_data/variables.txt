@@ -1,0 +1,40 @@
+Variables in data sets:
+
+Experiment 1
+condition: 
+1 = positive shared / negative unique
+0 = negative shared / positive unique
+
+preference_first:
+1 = preference for 1st group
+0 = preference for 2nd group
+
+Experiment 2
+condition:
+1 = positive shared / negative unique
+0 = negative shared / positive unique
+
+phi: phi coefficient
+
+preference_first:
+1 = preference for 1st group
+0 = preference for 2nd group
+
+phi_bin:
+1 = positive phi
+-1 = negative phi
+
+Experiment 3
+condition:
+1 = positive shared / negative unique
+0 = negative shared / positive unique
+
+phi: phi coefficient
+
+preference_first:
+1 = preference for 1st group
+0 = preference for 2nd group
+
+phi_bin:
+1 = positive phi
+-1 = negative phi
